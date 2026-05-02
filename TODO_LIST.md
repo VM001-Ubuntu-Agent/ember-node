@@ -32,32 +32,26 @@ Main product file:
 
 ## Current human tasks
 
-### [ ] Task 1 - Create Gumroad account
+### [~] Task 1 - Create Gumroad account
 
 <details>
 <summary>Exact steps</summary>
 
-1. Go to:
-   https://gumroad.com
+Progress:
+- [x] Logged in with Google.
+- [x] Clicked `Start Selling`.
+- [x] Chose `Projects` and `Digital products`.
+- [ ] Click `Next: Customize`.
+- [ ] Complete customize screen.
+- [ ] Stop when dashboard/product setup opens.
 
-2. Click `Start Selling` or `Sign up`.
+Next tiny action:
+Click `Next: Customize`.
 
-3. Enter your email address.
+If it asks for name/profile, use:
+`AI Freelancer Tools`
 
-4. Choose a password.
-
-5. Verify email if Gumroad sends you a code/link.
-
-6. If asked what you sell, choose:
-   `Digital products`, `Software`, `Templates`, or closest match.
-
-7. If asked for profile name, use for now:
-   `AI Freelancer Tools`
-
-8. Stop when you reach the dashboard.
-
-9. Come back and say:
-   `done task 1`
+Then tell me what screen appears.
 
 </details>
 
