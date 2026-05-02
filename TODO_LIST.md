@@ -8,102 +8,49 @@ Simple rule:
 
 ---
 
-## What we are actually selling now
+## Current human action
 
-Not a folder of random markdown files.
+### [~] Task 1 - Finish Gumroad product customize page
 
-We are selling a small browser app:
-`AI Freelancer Deal Desk`
+<details>
+<summary>Exact steps</summary>
 
-It helps AI/automation freelancers turn messy client requests into:
+You are on Gumroad customize page.
+
+Use this fill-in file:
+`/home/ubuntu-agent/Desktop/money-machine/gumroad-fill-in-copy.txt`
+
+Use these images:
+- Cover: `/home/ubuntu-agent/Desktop/money-machine/assets/gumroad-cover.png`
+- Thumbnail: `/home/ubuntu-agent/Desktop/money-machine/assets/gumroad-thumbnail.png`
+
+Use this product ZIP when Gumroad asks for file upload:
+`/home/ubuntu-agent/Desktop/money-machine/dist/ai-freelancer-deal-desk-app.zip`
+
+What to do now:
+1. Fill fields from `gumroad-fill-in-copy.txt`.
+2. Upload cover image if it asks.
+3. Upload thumbnail image if it asks.
+4. Leave integrations blank.
+5. Versions: skip unless forced. If forced, name it `Standard`.
+6. When Gumroad asks product file/upload, upload the ZIP above.
+7. Stop before final publish if unsure.
+8. Come back and tell me what button/screen you see.
+
+</details>
+
+---
+
+## Product we are selling
+
+AI Freelancer Deal Desk.
+
+Browser app that generates:
 - proposal text
 - scope boundaries
 - onboarding checklist
 - change-order message
 - weekly client update
 
-It runs locally in the buyer's browser.
-No login. No server. No tech setup.
-
-Main product file:
+Main ZIP:
 `/home/ubuntu-agent/Desktop/money-machine/dist/ai-freelancer-deal-desk-app.zip`
-
----
-
-## Current human tasks
-
-### [~] Task 1 - Create Gumroad account
-
-<details>
-<summary>Exact steps</summary>
-
-Progress:
-- [x] Logged in with Google.
-- [x] Clicked `Start Selling`.
-- [x] Chose `Projects` and `Digital products`.
-- [ ] Click `Next: Customize`.
-- [x] Reached `Publish your first project page`.
-- [x] Entered project name: `AI Freelancer tools`.
-- [x] Selected `Digital product`.
-- [ ] Enter price: `19` / `£19`.
-- [x] Price set.
-- [x] Reached customize page.
-- [ ] Fill description, URL, CTA, summary, details.
-- [ ] Skip integrations for now.
-- [ ] Add/upload product file when Gumroad asks.
-
-Current page fields:
-
-Description:
-`A simple browser app for AI and automation freelancers. Fill in a few client/project details and instantly generate a proposal, scope boundaries, onboarding checklist, change-order message, and weekly update text. Helps stop scope creep and unpaid extra work.`
-
-URL:
-`ai-freelancer-deal-desk`
-
-Call to action:
-`Get the app`
-
-Summary:
-`Turn messy AI client requests into clean proposal, scope, onboarding, and change-order docs in minutes.`
-
-Additional details:
-`Runs locally in your browser. No login. No server. No setup. Download the ZIP, open index.html, fill the form, generate your client-ready docs, then copy or download them.`
-
-Product info:
-`Digital browser app download for freelancers and consultants.`
-
-Integrations:
-`Skip / leave blank for now.`
-
-Versions:
-`Skip for now unless Gumroad forces it. If forced, make one version called Standard.`
-
-Cover / thumbnail:
-`Skip if optional. If required, tell me and I will create one.`
-
-Next tiny action:
-Paste the fields above. Then tell me if Gumroad asks you to upload a file.
-
-</details>
-
----
-
-## Later tasks, not yet
-
-### [ ] Task 2 - Create Gumroad product
-
-<details>
-<summary>Wait until Task 1 is done</summary>
-
-I will guide this after account exists.
-
-Product name:
-`AI Freelancer Deal Desk`
-
-Upload ZIP:
-`/home/ubuntu-agent/Desktop/money-machine/dist/ai-freelancer-deal-desk-app.zip`
-
-Starter price:
-`£19`
-
-</details>

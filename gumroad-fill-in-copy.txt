@@ -1,0 +1,74 @@
+GUMROAD FILL-IN COPY
+
+Use these fields on the Gumroad customize page.
+
+PRODUCT NAME
+AI Freelancer Deal Desk
+
+PRICE
+19
+Choose GBP / £ if Gumroad gives currency choice.
+
+URL
+ai-freelancer-deal-desk
+
+CALL TO ACTION
+Get the app
+
+SUMMARY
+Turn messy AI client requests into clean proposal, scope, onboarding, and change-order docs in minutes.
+
+DESCRIPTION
+AI Freelancer Deal Desk is a simple browser app for AI and automation freelancers.
+
+Fill in a few client/project details and instantly generate client-ready text for:
+- proposal
+- scope boundaries
+- onboarding checklist
+- change-order message
+- weekly client update
+
+It helps you stop scope creep, protect your time, and avoid unpaid extra work.
+
+No login. No server. No setup. Download the ZIP, open index.html, fill the form, generate docs, copy or download.
+
+ADDITIONAL DETAILS
+What buyers get:
+- Local browser app
+- Proposal generator
+- Scope boundary clause generator
+- Onboarding checklist generator
+- Change-order message generator
+- Weekly client update generator
+
+How to use:
+1. Download ZIP.
+2. Unzip it.
+3. Open product/app/index.html in browser.
+4. Fill the form.
+5. Click Generate docs.
+6. Copy or download the output.
+
+This is a business productivity tool, not legal advice.
+
+PRODUCT INFO
+Digital browser app download for freelancers and consultants.
+
+INTEGRATIONS
+Leave blank / skip.
+
+VERSIONS
+If optional: skip.
+If required: create one version named Standard.
+
+COVER IMAGE
+Use:
+/home/ubuntu-agent/Desktop/money-machine/assets/gumroad-cover.png
+
+THUMBNAIL IMAGE
+Use:
+/home/ubuntu-agent/Desktop/money-machine/assets/gumroad-thumbnail.png
+
+PRODUCT FILE UPLOAD
+Use:
+/home/ubuntu-agent/Desktop/money-machine/dist/ai-freelancer-deal-desk-app.zip
