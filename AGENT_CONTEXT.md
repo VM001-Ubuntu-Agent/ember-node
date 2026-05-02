@@ -4,9 +4,19 @@ Keep repo clean:
 - `TODO_LIST.md` = user actions.
 - `AGENT_CONTEXT.md` = LLM handoff.
 - Avoid extra md/readme files.
-- Non-md assets are allowed: app files, zip, images, txt fill-in copy.
+- Non-md assets are allowed.
 
-User wants caveman-simple responses and expects agent to do most work.
+User state:
+- User is frustrated because they are doing too much manual Gumroad work.
+- User wants agent to do most work.
+- User wants caveman-simple clear instructions.
+- Product name `AI Freelancer Deal Desk` was confusing; user thought it sounded like a physical desk. Renamed.
+
+Important limitation:
+- Gumroad product creation/upload does not appear available via simple public create-product API from this environment.
+- User is logged into Gumroad in their own browser, not the agent environment.
+- Agent cannot access their Google login/session unless browser automation is explicitly available and connected.
+- Do not ask for passwords.
 
 Project path:
 `/home/ubuntu-agent/Desktop/money-machine`
@@ -14,26 +24,27 @@ Project path:
 GitHub:
 `git@github.com:VM001-Ubuntu-Agent/ember-node.git`
 
-Product:
-`AI Freelancer Deal Desk`
+Current product:
+`ScopeGuard Client Docs Generator`
 
-Value:
-A real local browser app, not markdown templates. Buyer opens `product/app/index.html`, fills client/project fields, and generates proposal, scope boundaries, onboarding checklist, change-order message, and weekly update.
+Plain English:
+Small local browser app for AI/automation freelancers. It generates proposal, scope boundaries, onboarding checklist, change-order message, and weekly update text from a form.
 
 Sellable ZIP:
-`dist/ai-freelancer-deal-desk-app.zip`
+`dist/scopeguard-client-docs-generator.zip`
 
-Gumroad assets made:
+Gumroad assets:
 - `gumroad-fill-in-copy.txt`
 - `assets/gumroad-cover.png`
 - `assets/gumroad-thumbnail.png`
-- `assets/gumroad-cover.svg`
-- `assets/gumroad-thumbnail.svg`
 
-Current user state:
-User is on Gumroad customize page asking for description, URL, cover, thumbnail, product info, call to action, summary, additional details, integrations, versions.
+Current user screen:
+Gumroad customize page asking for description, URL, cover, thumbnail, product info, call to action, summary, additional details, integrations, versions.
 
 Next user action:
-Use `gumroad-fill-in-copy.txt` and upload PNG assets. Leave integrations blank. Versions skip unless forced; if forced use Standard.
+Use TODO_LIST.md exact fields. Upload cover/thumbnail/zip. Leave integrations blank. Versions skip unless forced; if forced use Standard.
 
-When user reports progress, update TODO_LIST.md, commit, push.
+When user reports progress:
+- Update TODO_LIST.md.
+- Commit and push.
+- Keep response short and direct.

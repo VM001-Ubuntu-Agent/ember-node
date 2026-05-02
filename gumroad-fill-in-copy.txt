@@ -1,74 +1,84 @@
-GUMROAD FILL-IN COPY
+GUMROAD CUSTOMIZE PAGE - EXACT FIELDS
 
-Use these fields on the Gumroad customize page.
+We are NOT selling a desk.
+We are selling a small browser app.
 
 PRODUCT NAME
-AI Freelancer Deal Desk
+ScopeGuard Client Docs Generator
+
+WHAT IT IS
+A browser app for AI/automation freelancers that generates client-ready project docs from a simple form.
 
 PRICE
 19
-Choose GBP / £ if Gumroad gives currency choice.
+Use GBP / £ if available.
 
 URL
-ai-freelancer-deal-desk
+scopeguard-client-docs-generator
 
 CALL TO ACTION
 Get the app
 
 SUMMARY
-Turn messy AI client requests into clean proposal, scope, onboarding, and change-order docs in minutes.
+Generate proposal, scope, onboarding, change-order, and weekly update text for AI client projects in minutes.
 
 DESCRIPTION
-AI Freelancer Deal Desk is a simple browser app for AI and automation freelancers.
+ScopeGuard Client Docs Generator is a simple browser app for AI and automation freelancers.
 
-Fill in a few client/project details and instantly generate client-ready text for:
-- proposal
-- scope boundaries
+It helps freelancers avoid scope creep and unpaid extra work by turning messy client/project details into clear client-ready documents.
+
+The buyer fills in a simple form and clicks Generate. The app creates:
+- proposal text
+- scope boundary clauses
 - onboarding checklist
 - change-order message
 - weekly client update
 
-It helps you stop scope creep, protect your time, and avoid unpaid extra work.
+It runs locally in the browser.
+No login.
+No server.
+No setup.
+No subscription.
 
-No login. No server. No setup. Download the ZIP, open index.html, fill the form, generate docs, copy or download.
+The buyer downloads the ZIP, opens index.html, fills the form, and copies or downloads the generated client docs.
 
 ADDITIONAL DETAILS
-What buyers get:
+Included:
 - Local browser app
 - Proposal generator
-- Scope boundary clause generator
+- Scope boundary generator
 - Onboarding checklist generator
 - Change-order message generator
 - Weekly client update generator
+- Copy button
+- Download .txt button
 
 How to use:
 1. Download ZIP.
 2. Unzip it.
-3. Open product/app/index.html in browser.
+3. Open product/app/index.html in your browser.
 4. Fill the form.
 5. Click Generate docs.
-6. Copy or download the output.
+6. Copy or download the generated text.
 
-This is a business productivity tool, not legal advice.
+Note: This is a business productivity tool, not legal advice.
 
 PRODUCT INFO
 Digital browser app download for freelancers and consultants.
 
-INTEGRATIONS
-Leave blank / skip.
-
-VERSIONS
-If optional: skip.
-If required: create one version named Standard.
-
 COVER IMAGE
-Use:
 /home/ubuntu-agent/Desktop/money-machine/assets/gumroad-cover.png
 
 THUMBNAIL IMAGE
-Use:
 /home/ubuntu-agent/Desktop/money-machine/assets/gumroad-thumbnail.png
 
 PRODUCT FILE UPLOAD
-Use:
-/home/ubuntu-agent/Desktop/money-machine/dist/ai-freelancer-deal-desk-app.zip
+/home/ubuntu-agent/Desktop/money-machine/dist/scopeguard-client-docs-generator.zip
+
+INTEGRATIONS
+Leave blank.
+
+VERSIONS
+Skip if optional.
+If Gumroad forces it, create one version:
+Standard
