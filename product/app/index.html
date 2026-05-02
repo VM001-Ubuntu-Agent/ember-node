@@ -1,0 +1,64 @@
+<!doctype html>
+<html lang="en">
+<head>
+  <meta charset="utf-8" />
+  <meta name="viewport" content="width=device-width, initial-scale=1" />
+  <title>AI Freelancer Deal Desk</title>
+  <link rel="stylesheet" href="styles.css" />
+</head>
+<body>
+  <div class="shell">
+    <header class="hero">
+      <p class="eyebrow">AI Freelancer Deal Desk</p>
+      <h1>Turn messy client requests into clean proposal, scope, and change-order docs.</h1>
+      <p class="sub">A local browser tool for AI automation freelancers. No login. No server. Fill the form, generate client-ready docs, copy or download.</p>
+    </header>
+
+    <main class="grid">
+      <section class="panel form-panel">
+        <h2>Project inputs</h2>
+        <label>Client name<input id="client" placeholder="Acme Ltd" /></label>
+        <label>Project name<input id="project" placeholder="AI support chatbot" /></label>
+        <label>Main outcome<textarea id="outcome" placeholder="Reduce support load by answering common customer questions automatically"></textarea></label>
+        <label>Included work<textarea id="included" placeholder="Discovery call&#10;Knowledge base review&#10;Chatbot workflow build&#10;Testing and handoff"></textarea></label>
+        <label>Not included / boundaries<textarea id="excluded" placeholder="24/7 support&#10;Custom CRM rebuild&#10;Unlimited revisions&#10;Paid API costs"></textarea></label>
+        <label>Timeline<input id="timeline" placeholder="2 weeks" /></label>
+        <label>Price<input id="price" placeholder="£1,500" /></label>
+        <label>Revision limit<input id="revisions" placeholder="2 rounds" /></label>
+        <label>Client must provide<textarea id="clientNeeds" placeholder="Brand guidelines&#10;Tool access&#10;Example support questions&#10;Approval within 2 business days"></textarea></label>
+        <label>Change request<textarea id="changeRequest" placeholder="Client asks to add WhatsApp integration after proposal approval"></textarea></label>
+
+        <div class="buttons">
+          <button id="generate">Generate docs</button>
+          <button id="loadSample" class="secondary">Load sample</button>
+          <button id="clear" class="ghost">Clear</button>
+        </div>
+      </section>
+
+      <section class="panel output-panel">
+        <div class="output-head">
+          <h2>Generated deal docs</h2>
+          <div class="buttons small">
+            <button id="copy" class="secondary">Copy</button>
+            <button id="download" class="secondary">Download .txt</button>
+          </div>
+        </div>
+        <textarea id="output" spellcheck="false"></textarea>
+      </section>
+    </main>
+
+    <section class="panel help">
+      <h2>How to use this with clients</h2>
+      <ol>
+        <li>Fill this before sending a proposal.</li>
+        <li>Paste generated proposal into email/doc.</li>
+        <li>Send scope boundary section before project starts.</li>
+        <li>If client adds work, use generated change-order message instead of doing free work.</li>
+      </ol>
+      <p class="note">This is a business tool, not legal advice. Edit before sending.</p>
+    </section>
+  </div>
+
+  <script src="script.js"></script>
+</body>
+</html>

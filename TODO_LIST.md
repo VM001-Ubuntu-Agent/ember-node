@@ -1,15 +1,32 @@
 # MONEY MACHINE TODO LIST
 
 Simple rule:
-- You do account / payment / identity clicks.
-- I do product files, copy, launch assets, tracking, cleanup, and updates.
+- I build the product and sales assets.
+- You only do human-only clicks: signup, passwords, payout/KYC, publishing approval.
 - When you finish a task, tell me: "done task X".
-- I will tick it off here and add the next needed task.
+- I tick it off and add the next tiny task.
 
-Status key:
-- [ ] not done
-- [x] done
-- [~] doing / waiting
+---
+
+## What we are actually selling now
+
+Not a folder of random markdown files.
+
+We are selling a small browser app:
+`AI Freelancer Deal Desk`
+
+It helps AI/automation freelancers turn messy client requests into:
+- proposal text
+- scope boundaries
+- onboarding checklist
+- change-order message
+- weekly client update
+
+It runs locally in the buyer's browser.
+No login. No server. No tech setup.
+
+Main product file:
+`/home/ubuntu-agent/Desktop/money-machine/dist/ai-freelancer-deal-desk-app.zip`
 
 ---
 
@@ -18,118 +35,50 @@ Status key:
 ### [ ] Task 1 - Create Gumroad account
 
 <details>
-<summary>Click here for exact steps</summary>
+<summary>Exact steps</summary>
 
-1. Open this website:
+1. Go to:
    https://gumroad.com
 
 2. Click `Start Selling` or `Sign up`.
 
-3. Choose email signup if shown.
+3. Enter your email address.
 
-4. Put in your email address.
+4. Choose a password.
 
-5. Choose a password.
-   Use a strong one. Save it in your password manager / browser.
+5. Verify email if Gumroad sends you a code/link.
 
-6. Confirm email if Gumroad sends you a verification email.
+6. If asked what you sell, choose:
+   `Digital products`, `Software`, `Templates`, or closest match.
 
-7. If Gumroad asks what you sell, choose something like:
-   `Digital products` / `Templates` / `Business tools`.
-
-8. If Gumroad asks for profile name, use something simple for now:
+7. If asked for profile name, use for now:
    `AI Freelancer Tools`
-   or your own brand/name if you prefer.
 
-9. Stop when your Gumroad account/dashboard is open.
+8. Stop when you reach the dashboard.
 
-10. Come back and tell me:
+9. Come back and say:
    `done task 1`
 
-Do not worry about making it perfect. Just get account open.
-
 </details>
 
 ---
 
-## Next tasks I expect soon
+## Later tasks, not yet
 
-### [ ] Task 2 - Create the Gumroad product
-
-<details>
-<summary>Do not do yet unless I say go. Steps ready here.</summary>
-
-1. In Gumroad dashboard, click `New product`.
-2. Choose `Digital product`.
-3. Product name:
-   `AI Freelancer Deal Desk Starter`
-4. Upload file:
-   `/home/ubuntu-agent/Desktop/money-machine/dist/ai-freelancer-deal-desk-starter-full.zip`
-5. Use price/tier setup if Gumroad offers variants:
-   - Basic £9
-   - Pro £19
-   - Ultimate £39
-6. If variants are awkward, use one product price first:
-   `£19`
-   We can add tiers later.
-7. Save draft.
-8. Come back and tell me what screen you see.
-
-</details>
-
-### [ ] Task 3 - Add product copy
+### [ ] Task 2 - Create Gumroad product
 
 <details>
-<summary>Do not do yet. I will give exact copy when needed.</summary>
+<summary>Wait until Task 1 is done</summary>
 
-I already made copy here:
-`/home/ubuntu-agent/Desktop/money-machine/launch-assets/landing-page/LANDING_PAGE_V2.md`
+I will guide this after account exists.
 
-When your product draft exists, I will tell you exactly what to paste into each Gumroad box.
+Product name:
+`AI Freelancer Deal Desk`
 
-</details>
+Upload ZIP:
+`/home/ubuntu-agent/Desktop/money-machine/dist/ai-freelancer-deal-desk-app.zip`
 
-### [ ] Task 4 - Publish and send link
-
-<details>
-<summary>Do not do yet.</summary>
-
-When Gumroad lets you publish:
-1. Click publish.
-2. Copy product link.
-3. Send link to me.
-
-Then I will:
-- add links into launch files
-- prep launch posts
-- update this TODO list
-- commit/push changes
+Starter price:
+`£19`
 
 </details>
-
----
-
-## Agent tasks already done
-
-- [x] Picked niche: AI / automation freelancers.
-- [x] Built product templates.
-- [x] Built launch copy.
-- [x] Built social posts.
-- [x] Built email sequence.
-- [x] Built landing page copy and HTML.
-- [x] Built tracking CSV.
-- [x] Built ZIP files in `/dist`.
-- [x] Synced project to GitHub.
-
----
-
-## Important paths
-
-Main project:
-`/home/ubuntu-agent/Desktop/money-machine`
-
-Full upload ZIP:
-`/home/ubuntu-agent/Desktop/money-machine/dist/ai-freelancer-deal-desk-starter-full.zip`
-
-GitHub repo:
-`git@github.com:VM001-Ubuntu-Agent/ember-node.git`
