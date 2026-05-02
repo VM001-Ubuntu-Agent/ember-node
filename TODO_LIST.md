@@ -46,15 +46,43 @@ Progress:
 - [x] Entered project name: `AI Freelancer tools`.
 - [x] Selected `Digital product`.
 - [ ] Enter price: `19` / `£19`.
-- [ ] Continue to upload/details screen.
+- [x] Price set.
+- [x] Reached customize page.
+- [ ] Fill description, URL, CTA, summary, details.
+- [ ] Skip integrations for now.
+- [ ] Add/upload product file when Gumroad asks.
+
+Current page fields:
+
+Description:
+`A simple browser app for AI and automation freelancers. Fill in a few client/project details and instantly generate a proposal, scope boundaries, onboarding checklist, change-order message, and weekly update text. Helps stop scope creep and unpaid extra work.`
+
+URL:
+`ai-freelancer-deal-desk`
+
+Call to action:
+`Get the app`
+
+Summary:
+`Turn messy AI client requests into clean proposal, scope, onboarding, and change-order docs in minutes.`
+
+Additional details:
+`Runs locally in your browser. No login. No server. No setup. Download the ZIP, open index.html, fill the form, generate your client-ready docs, then copy or download them.`
+
+Product info:
+`Digital browser app download for freelancers and consultants.`
+
+Integrations:
+`Skip / leave blank for now.`
+
+Versions:
+`Skip for now unless Gumroad forces it. If forced, make one version called Standard.`
+
+Cover / thumbnail:
+`Skip if optional. If required, tell me and I will create one.`
 
 Next tiny action:
-Set price to `19`.
-
-If Gumroad shows currency, choose GBP / £ if available.
-If it only shows dollars, still enter `19` for now.
-
-Then click the next/continue button and tell me what screen appears.
+Paste the fields above. Then tell me if Gumroad asks you to upload a file.
 
 </details>
 
