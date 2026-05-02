@@ -42,16 +42,19 @@ Progress:
 - [x] Clicked `Start Selling`.
 - [x] Chose `Projects` and `Digital products`.
 - [ ] Click `Next: Customize`.
-- [ ] Complete customize screen.
-- [ ] Stop when dashboard/product setup opens.
+- [x] Reached `Publish your first project page`.
+- [x] Entered project name: `AI Freelancer tools`.
+- [x] Selected `Digital product`.
+- [ ] Enter price: `19` / `£19`.
+- [ ] Continue to upload/details screen.
 
 Next tiny action:
-Click `Next: Customize`.
+Set price to `19`.
 
-If it asks for name/profile, use:
-`AI Freelancer Tools`
+If Gumroad shows currency, choose GBP / £ if available.
+If it only shows dollars, still enter `19` for now.
 
-Then tell me what screen appears.
+Then click the next/continue button and tell me what screen appears.
 
 </details>
 
